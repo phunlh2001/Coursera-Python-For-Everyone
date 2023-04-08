@@ -1,1 +1,1 @@
-## My solutions in Course Python For Everyone on site: Coursera
+## My solutions in course Python For Everyone on site: `coursera.org`
